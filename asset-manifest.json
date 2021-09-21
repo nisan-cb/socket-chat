@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/socket-chat/static/css/main.bdf71631.chunk.css",
+    "main.js": "/socket-chat/static/js/main.fae8787b.chunk.js",
+    "main.js.map": "/socket-chat/static/js/main.fae8787b.chunk.js.map",
+    "runtime-main.js": "/socket-chat/static/js/runtime-main.234d4185.js",
+    "runtime-main.js.map": "/socket-chat/static/js/runtime-main.234d4185.js.map",
+    "static/js/2.9990054f.chunk.js": "/socket-chat/static/js/2.9990054f.chunk.js",
+    "static/js/2.9990054f.chunk.js.map": "/socket-chat/static/js/2.9990054f.chunk.js.map",
+    "index.html": "/socket-chat/index.html",
+    "static/css/main.bdf71631.chunk.css.map": "/socket-chat/static/css/main.bdf71631.chunk.css.map",
+    "static/js/2.9990054f.chunk.js.LICENSE.txt": "/socket-chat/static/js/2.9990054f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.234d4185.js",
+    "static/js/2.9990054f.chunk.js",
+    "static/css/main.bdf71631.chunk.css",
+    "static/js/main.fae8787b.chunk.js"
+  ]
+}
